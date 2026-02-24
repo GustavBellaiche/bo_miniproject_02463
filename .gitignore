@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Dataset
+imagenette2-160/
