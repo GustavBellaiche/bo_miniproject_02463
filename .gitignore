@@ -10,4 +10,4 @@ wheels/
 .venv
 
 # Dataset
-imagenette2-160/
+data/
